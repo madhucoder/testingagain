@@ -1,9 +1,9 @@
 variable "resource_group_name" {
-  default = "terraformtest"
+  default = "terraformtesttwice"
 }
 
 variable "vnet_name" {
-  default = "terraformtestvnet"
+  default = "terraformtesttwicevnet"
 }
 
 variable "subnet_name" {
